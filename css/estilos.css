@@ -9,7 +9,7 @@ body{
 }
 
 .cabecera{
-    background-color: none;
+    background-color: red;
     text-decoration:none;
     overflow: hidden;
     padding: 0;
