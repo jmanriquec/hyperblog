@@ -1,3 +1,21 @@
-body{
-    background-color: brown;
+.contain{
+    width: 70%;
+    margin: 10px auto;
+    padding: 10px 40px;
+    border: 1px solid rgb(70, 68, 68);
+
+}
+
+h1{
+    width: 100%;
+    border-bottom: 1px solid rgb(126, 133, 126);
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFF;
+    background-color: rgb(0, 255, 76);
+    padding: 10px 0;
+}
+
+p{
+    padding: 10px;
 }
